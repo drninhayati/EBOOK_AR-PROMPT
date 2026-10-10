@@ -1,0 +1,53 @@
+UPLOAD DOKUMEN KE GEMINI NOTEBOOK
+
+Prompt 1: Technical Content Analysis
+
+Act as an instructional content analyst for diploma-level Electrical Engineering education.
+
+Analyse ONLY the uploaded teaching materials.
+
+Identify:
+1. Main technical topics and subtopics.
+2. Essential technical concepts and definitions.
+3. Important diagrams, components, procedures or processes.
+4. Relevant learning outcomes stated in the sources.
+5. Suitable content for a short educational eBook.
+
+Present the findings in a table with columns: Topic, Key Technical Concepts, Explanation, Suggested Visual, Source Reference.
+
+Use source citations. Do not invent facts, technical specifications or learning outcomes. Clearly identify missing information.
+
+
+
+Prompt 2: eBook Storyboard Development
+
+Based on the uploaded sources and your previous content analysis, develop an 8-page educational eBook storyboard for diploma-level Electrical Engineering students.
+
+Use this structure:
+Page 1: Cover
+Page 2: Learning Outcomes
+Page 3: Introduction
+Page 4: Technical Content
+Page 5: Interactive Simulation
+Page 6: Learning Activity
+Page 7: Augmented Reality Experience
+Page 8: Quiz and Reflection
+
+For each page, provide the title, learning purpose, 3–5 key content points, recommended diagrams or visuals, student interaction and source citation.
+
+Distinguish information verified in the sources from proposed teaching activities. Do not invent technical details. Present your response in a table.
+
+
+Prompt 3: Interactive Simulation & AR Planning
+
+Using the uploaded sources and the proposed eBook storyboard, identify the most suitable content for interactive learning and Augmented Reality.
+
+Recommend:
+1. ONE interactive simulation that can be developed using Gemini Canvas.
+2. ONE engineering component or system suitable for a 3D AR experience.
+3. Three to five technical labels or features for the AR model.
+4. One short student learning activity for each element.
+
+For each recommendation, explain the learning purpose, user interaction, expected learning outcome and supporting source.
+
+Prioritise simple activities suitable for a two-day workshop. Clearly distinguish instructional design suggestions from verified technical information.
