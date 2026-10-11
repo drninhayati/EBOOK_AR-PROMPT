@@ -1,3 +1,11 @@
 PRompt 1:
 
 Act as an Electrical Engineering instructional designer. Use the uploaded NotebookLM blueprint to draft an 8-page eBook. Follow learning outcomes. Include title, concise content and suggested visual per page. Use clear English. Flag unsupported facts.
+
+
+
+PROMPT 2:
+Review and simplify the draft for diploma students. Preserve technical accuracy. Use short paragraphs and clear terms. Suggest appropriate diagrams. Keep main explanations within 100 words per page. Provide verification notes.
+
+PROMPT3:
+Based on the approved eBook, create ONE learning activity and FIVE multiple-choice questions. Provide instructions, expected output, four options, correct answers, feedback and alignment with learning outcomes.
