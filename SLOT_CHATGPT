@@ -4,8 +4,12 @@ Act as an Electrical Engineering instructional designer. Use the uploaded Notebo
 
 
 
-PROMPT 2:
+PROMPT 2:Refine Technical Content
+
 Review and simplify the draft for diploma students. Preserve technical accuracy. Use short paragraphs and clear terms. Suggest appropriate diagrams. Keep main explanations within 100 words per page. Provide verification notes.
 
-PROMPT3:
+PROMPT3:Develop Learning Activities & Quiz
 Based on the approved eBook, create ONE learning activity and FIVE multiple-choice questions. Provide instructions, expected output, four options, correct answers, feedback and alignment with learning outcomes.
+
+PROMPT4:Plan Visuals, Simulation & AR
+
